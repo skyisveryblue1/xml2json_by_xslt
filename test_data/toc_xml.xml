@@ -1,0 +1,24 @@
+<connect>
+<daily site="ABC" number="123" linecode="DL" FlightNumber="123" adi="A" softReplace="true" action="update">
+<field instance="1" value="1" name="SiteId"/>
+<field instance="1" value="0137" name="FlightNumber"/>
+<field instance="1" value="DLH0135" name="CallSign"/>
+<field instance="1" value="0" name="FlightRule"/>
+<field instance="1" value="Pad" name="DecingRequest"/>
+<field instance="1" value="33R" name="Runway"/>
+<field instance="1" value="HOLD" name="Stand"/>
+<field instance="1" value="0" name="AirlinePriority"/>
+<field value="2023-01-09T12:00:10" name="EstimatedOffBlockTime"/>
+<field value="2023-01-09T12:00:10" name="ScheduledOffBlockTime"/>
+<field value="2023-01-09T12:00:10" name="TargetOffBlockTime"/>
+<field instance="1" value="2023-01-09T12:00:10" name="TargetTakeOffTime"/>
+<field instance="1" value="2023-01-09T12:00:10" name="TargetStartUpApprovalTime"/>
+<field instance="1" value="6" name="EstimatedTaxiOutTimeInSeconds"/>
+<field instance="1" value="6" name="EstimatedRunwayWaitTimeInSeconds"/>
+<field instance="1" value="0" name="EstimatedDeicingTimeInSeconds"/>
+<field instance="1" value="false" name="IsManualFixed"/>
+<field instance="1" value="33" name="ParkPosition"/>
+<field instance="1" value="Test Comment" name="Comment"/>
+<field value="0" name="EstimatedTaxiTimeToPadInSeconds"/>
+</daily>
+</connect>

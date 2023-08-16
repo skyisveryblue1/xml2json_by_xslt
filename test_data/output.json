@@ -1,0 +1,25 @@
+
+    {
+      "FlightId":0,
+      "SiteId": 1,
+      "FlightNumber":"123",
+      "CallSign":"DLH0135",
+      "FlightRule":0,
+      "DeicingRequest":Pad,
+      "Runway":"33R",
+      "Stand":"HOLD",
+      "AirlinePriority":0,
+      "EstimatedOffBlockTime":"2023-01-09T12:00:10-05:00",
+      "ScheduledOffBlockTime":"2023-01-09T12:00:10-05:00",
+      "TargetOffBlockTime":"2023-01-09T12:00:10-05:00",
+      "TargetTakeOffTime":"2023-01-09T12:00:10-05:00",
+      "TargetStartUpApprovalTime":"2023-01-09T12:00:10-05:00",
+      "EstimatedTaxiOutTimeInSeconds":6,
+      "EstimatedRunwayWaitTimeInSeconds":6,
+      "EstimatedDeicingTimeInSeconds":0,
+      "IsManualFixed":false,
+      "ParkPosition":33,
+      "Comment":"Test Comment",
+      "EstimatedTaxiTimeToPadInSeconds":0
+    }
+  
